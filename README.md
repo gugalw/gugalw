@@ -8,7 +8,7 @@
 ![gugalw GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalw&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalw&layout=compact)](https://github.com/gugalw/github-readme-stats)
 
 ##
-
+ <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,8 +20,8 @@
  
  <div> 
   <a href="https://www.linkedin.com/in/gugalw" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+</div> 
 
 ##
 
-![Snake animation](https://github.com/{{gugalw}}/{{gugalw}}/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gugalw/gugalw/blob/output/github-contribution-grid-snake.svg)
