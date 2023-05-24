@@ -5,7 +5,7 @@
 
 ##
 
-![gugalw GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalw&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugalw&layout=compact)](https://github.com/gugalw/github-readme-stats)
+![gugalw GitHub stats](https://github-readme-stats.vercel.app/api?username=gugalw&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.PAT_1.app/api/top-langs/?username=gugalw&layout=compact)](https://github.com/gugalw/github-readme-stats)
 
 ##
  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
